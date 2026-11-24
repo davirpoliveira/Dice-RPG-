@@ -1,0 +1,9 @@
+#dices{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 0;
+    gap: 20px;
+    justify-content: space-between;
+    width: 100vh;
+}
